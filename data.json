@@ -1,31 +1,31 @@
 {
   "results": [
   {
-  "1": "<wine>",
+  "id": "1",
   "name: "<rioja>",
   "description": "<dry>",
   "barrel": "oak"
   },
   {
-  "2": "<wine>",
+  "id": "<2>",
   "name: "<merlot>",
   "description": "<fruity>",
   "barrel": "birch"
   },
   {
-  "3": "<wine>",
+  "id": "<3>",
   "name: "<shiraz>",
   "description": "<sweet>",
   "barrel": "rum"
   },
   {
-  "4": "<wine>",
+  "id": "<4>",
   "name: "<chardonnay>",
   "description": "<sparkling>",
   "barrel": "birch"
   },
   {
-  "5": "<wine>",
+  "id": "<5>",
   "name: "<pinogrigio>",
   "description": "<sour>",
   "barrel": "sherry"
