@@ -2,32 +2,32 @@
   "results": [
   {
   "id": "1",
-  "name: "<rioja>",
-  "description": "<dry>",
+  "name: "rioja",
+  "description": "dry",
   "barrel": "oak"
   },
   {
-  "id": "<2>",
-  "name: "<merlot>",
-  "description": "<fruity>",
+  "id": "2",
+  "name: "merlot",
+  "description": "fruity",
   "barrel": "birch"
   },
   {
-  "id": "<3>",
-  "name: "<shiraz>",
-  "description": "<sweet>",
+  "id": "3",
+  "name: "shiraz",
+  "description": "sweet",
   "barrel": "rum"
   },
   {
-  "id": "<4>",
-  "name: "<chardonnay>",
-  "description": "<sparkling>",
+  "id": "4",
+  "name: "chardonnay",
+  "description": "sparkling",
   "barrel": "birch"
   },
   {
-  "id": "<5>",
-  "name: "<pinogrigio>",
-  "description": "<sour>",
+  "id": "5",
+  "name: "pinogrigio",
+  "description": "sour",
   "barrel": "sherry"
   }
   ]
