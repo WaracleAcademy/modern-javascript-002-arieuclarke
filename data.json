@@ -10,9 +10,8 @@
   "2": "<wine>",
   "name: "<merlot>",
   "description": "<fruity>",
-  "barrel": "birch",
+  "barrel": "birch"
   },
- 
   {
   "3": "<wine>",
   "name: "<shiraz>",
@@ -30,6 +29,6 @@
   "name: "<pinogrigio>",
   "description": "<sour>",
   "barrel": "sherry"
-  },
+  }
   ]
   }
